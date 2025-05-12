@@ -3,7 +3,7 @@ This program will act similar to the linux terminal, performing various operatio
 The functions currently available for use are:
   - CD
   - CAT
-  *PWD
-  *LS
-  *EXIT
+  - PWD
+  - LS
+  - EXIT
   and there is a handler for unknown commands
