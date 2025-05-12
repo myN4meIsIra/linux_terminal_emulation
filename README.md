@@ -1,8 +1,8 @@
 # linux_terminal_emulation
 This program will act similar to the linux terminal, performing various operations based on user input. 
 The functions currently available for use are:
-  *CD
-  *CAT
+  - CD
+  - CAT
   *PWD
   *LS
   *EXIT
